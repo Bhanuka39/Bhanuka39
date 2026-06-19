@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanuka39&label=Profile%20views&color=0e75b6&style=flat" alt="bhanuka39" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bhanuka" target="blank"><img src="https://img.shields.io/twitter/follow/bhanuka?logo=twitter&style=for-the-badge" alt="bhanuka" /></a> </p>
+>
 
 - 🔭 I’m currently working on **My BICT degree coursework and expanding the Bhanuka_Studio portfolio.**
 
